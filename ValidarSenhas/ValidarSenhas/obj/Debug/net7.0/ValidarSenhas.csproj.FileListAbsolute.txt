@@ -1,0 +1,15 @@
+E:\Curso C#\ValidarSenhas\ValidarSenhas\bin\Debug\net7.0\ValidarSenhas.exe
+E:\Curso C#\ValidarSenhas\ValidarSenhas\bin\Debug\net7.0\ValidarSenhas.deps.json
+E:\Curso C#\ValidarSenhas\ValidarSenhas\bin\Debug\net7.0\ValidarSenhas.runtimeconfig.json
+E:\Curso C#\ValidarSenhas\ValidarSenhas\bin\Debug\net7.0\ValidarSenhas.dll
+E:\Curso C#\ValidarSenhas\ValidarSenhas\bin\Debug\net7.0\ValidarSenhas.pdb
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.csproj.AssemblyReference.cache
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.AssemblyInfoInputs.cache
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.AssemblyInfo.cs
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.csproj.CoreCompileInputs.cache
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.dll
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\refint\ValidarSenhas.dll
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.pdb
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ValidarSenhas.genruntimeconfig.cache
+E:\Curso C#\ValidarSenhas\ValidarSenhas\obj\Debug\net7.0\ref\ValidarSenhas.dll

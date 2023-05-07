@@ -1,0 +1,15 @@
+E:\Curso C#\Conversão\Conversão\bin\Debug\net6.0\Conversão.exe
+E:\Curso C#\Conversão\Conversão\bin\Debug\net6.0\Conversão.deps.json
+E:\Curso C#\Conversão\Conversão\bin\Debug\net6.0\Conversão.runtimeconfig.json
+E:\Curso C#\Conversão\Conversão\bin\Debug\net6.0\Conversão.dll
+E:\Curso C#\Conversão\Conversão\bin\Debug\net6.0\Conversão.pdb
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.csproj.AssemblyReference.cache
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.AssemblyInfoInputs.cache
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.AssemblyInfo.cs
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.csproj.CoreCompileInputs.cache
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.dll
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\refint\Conversão.dll
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.pdb
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\Conversão.genruntimeconfig.cache
+E:\Curso C#\Conversão\Conversão\obj\Debug\net6.0\ref\Conversão.dll

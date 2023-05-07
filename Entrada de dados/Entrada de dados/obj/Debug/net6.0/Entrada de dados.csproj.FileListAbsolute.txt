@@ -1,0 +1,15 @@
+E:\Curso C#\Entrada de dados\Entrada de dados\bin\Debug\net6.0\Entrada de dados.exe
+E:\Curso C#\Entrada de dados\Entrada de dados\bin\Debug\net6.0\Entrada de dados.deps.json
+E:\Curso C#\Entrada de dados\Entrada de dados\bin\Debug\net6.0\Entrada de dados.runtimeconfig.json
+E:\Curso C#\Entrada de dados\Entrada de dados\bin\Debug\net6.0\Entrada de dados.dll
+E:\Curso C#\Entrada de dados\Entrada de dados\bin\Debug\net6.0\Entrada de dados.pdb
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.csproj.AssemblyReference.cache
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.AssemblyInfoInputs.cache
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.AssemblyInfo.cs
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.csproj.CoreCompileInputs.cache
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.dll
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\refint\Entrada de dados.dll
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.pdb
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\Entrada de dados.genruntimeconfig.cache
+E:\Curso C#\Entrada de dados\Entrada de dados\obj\Debug\net6.0\ref\Entrada de dados.dll

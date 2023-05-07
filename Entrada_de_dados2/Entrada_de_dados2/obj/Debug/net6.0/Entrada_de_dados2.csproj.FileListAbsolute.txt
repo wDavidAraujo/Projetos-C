@@ -1,0 +1,15 @@
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.csproj.AssemblyReference.cache
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.AssemblyInfoInputs.cache
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.AssemblyInfo.cs
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.csproj.CoreCompileInputs.cache
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\bin\Debug\net6.0\Entrada_de_dados2.exe
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\bin\Debug\net6.0\Entrada_de_dados2.deps.json
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\bin\Debug\net6.0\Entrada_de_dados2.runtimeconfig.json
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\bin\Debug\net6.0\Entrada_de_dados2.dll
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\bin\Debug\net6.0\Entrada_de_dados2.pdb
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.dll
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\refint\Entrada_de_dados2.dll
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.pdb
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\Entrada_de_dados2.genruntimeconfig.cache
+E:\Curso C#\Entrada_de_dados2\Entrada_de_dados2\obj\Debug\net6.0\ref\Entrada_de_dados2.dll

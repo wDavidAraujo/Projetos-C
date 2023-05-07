@@ -1,0 +1,15 @@
+E:\Curso C#\Ex05FOR\Ex05FOR\bin\Debug\net7.0\Ex05FOR.exe
+E:\Curso C#\Ex05FOR\Ex05FOR\bin\Debug\net7.0\Ex05FOR.deps.json
+E:\Curso C#\Ex05FOR\Ex05FOR\bin\Debug\net7.0\Ex05FOR.runtimeconfig.json
+E:\Curso C#\Ex05FOR\Ex05FOR\bin\Debug\net7.0\Ex05FOR.dll
+E:\Curso C#\Ex05FOR\Ex05FOR\bin\Debug\net7.0\Ex05FOR.pdb
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.csproj.AssemblyReference.cache
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.AssemblyInfoInputs.cache
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.AssemblyInfo.cs
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.csproj.CoreCompileInputs.cache
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.dll
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\refint\Ex05FOR.dll
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.pdb
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\Ex05FOR.genruntimeconfig.cache
+E:\Curso C#\Ex05FOR\Ex05FOR\obj\Debug\net7.0\ref\Ex05FOR.dll

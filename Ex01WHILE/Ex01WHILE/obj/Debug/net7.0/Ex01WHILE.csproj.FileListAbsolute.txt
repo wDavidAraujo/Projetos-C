@@ -1,0 +1,15 @@
+E:\Curso C#\Ex01WHILE\Ex01WHILE\bin\Debug\net7.0\Ex01WHILE.exe
+E:\Curso C#\Ex01WHILE\Ex01WHILE\bin\Debug\net7.0\Ex01WHILE.deps.json
+E:\Curso C#\Ex01WHILE\Ex01WHILE\bin\Debug\net7.0\Ex01WHILE.runtimeconfig.json
+E:\Curso C#\Ex01WHILE\Ex01WHILE\bin\Debug\net7.0\Ex01WHILE.dll
+E:\Curso C#\Ex01WHILE\Ex01WHILE\bin\Debug\net7.0\Ex01WHILE.pdb
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.csproj.AssemblyReference.cache
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.AssemblyInfoInputs.cache
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.AssemblyInfo.cs
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.csproj.CoreCompileInputs.cache
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.dll
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\refint\Ex01WHILE.dll
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.pdb
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\Ex01WHILE.genruntimeconfig.cache
+E:\Curso C#\Ex01WHILE\Ex01WHILE\obj\Debug\net7.0\ref\Ex01WHILE.dll

@@ -1,0 +1,15 @@
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.exe
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.deps.json
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.runtimeconfig.json
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.dll
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.pdb
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.csproj.AssemblyReference.cache
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.AssemblyInfoInputs.cache
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.AssemblyInfo.cs
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.dll
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\refint\EstruturaDeRepeticao.dll
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.pdb
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.genruntimeconfig.cache
+E:\Curso C#\EstruturaDeRepeticao\EstruturaDeRepeticao\obj\Debug\net7.0\ref\EstruturaDeRepeticao.dll
